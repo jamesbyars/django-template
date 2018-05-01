@@ -1,0 +1,8 @@
+notes.md
+.vscode
+.idea
+djangox/__pycache__
+pages/__pycache__
+users/__pycache__
+users/migrations/__pycache__
+pages/migrations/__pycache__
